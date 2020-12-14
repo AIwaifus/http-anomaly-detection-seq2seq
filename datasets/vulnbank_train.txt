@@ -4644,3 +4644,751 @@ Host: 10.0.212.25
 Connection: close
 Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.119 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Trident/5.0)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: 
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+GET /vulnbank/index.html HTTP/1.1
+Host: ptaf-kickstart-c163.rd.ptsecurity.ru
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: PHPSESSID=4dorluj4ccherum6m9c1i0j917
+Content-Length: 4
+END
