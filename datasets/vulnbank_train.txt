@@ -53086,3 +53086,735 @@ POST /vulnbank/online/api.php HTTP/1.1
 Host: 10.0.212.25
 Connection: close
 Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=a87ff679a2f3e71d9181a67b75
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=a87ff679a2f3e71d9181a67b75
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=e4da3b7fbbce2345d7772b0674
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=e4da3b7fbbce2345d7772b0674
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=e4da3b7fbbce2345d7772b0674
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=e4da3b7fbbce2345d7772b0674
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=e4da3b7fbbce2345d7772b0674
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=e4da3b7fbbce2345d7772b0674
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=e4da3b7fbbce2345d7772b0674
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=1679091c5a880faf6fb5e6087e
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=1679091c5a880faf6fb5e6087e
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=1679091c5a880faf6fb5e6087e
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=1679091c5a880faf6fb5e6087e
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=1679091c5a880faf6fb5e6087e
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=1679091c5a880faf6fb5e6087e
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=1679091c5a880faf6fb5e6087e
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=8f14e45fceea167a5a36dedd4b
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=8f14e45fceea167a5a36dedd4b
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=8f14e45fceea167a5a36dedd4b
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=8f14e45fceea167a5a36dedd4b
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=8f14e45fceea167a5a36dedd4b
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=8f14e45fceea167a5a36dedd4b
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=8f14e45fceea167a5a36dedd4b
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=c9f0f895fb98ab9159f51fd029
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=c9f0f895fb98ab9159f51fd029
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=c9f0f895fb98ab9159f51fd029
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=c9f0f895fb98ab9159f51fd029
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=c9f0f895fb98ab9159f51fd029
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=c9f0f895fb98ab9159f51fd029
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=c9f0f895fb98ab9159f51fd029
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=45c48cce2e2d7fbdea1afc51c7
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=45c48cce2e2d7fbdea1afc51c7
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=45c48cce2e2d7fbdea1afc51c7
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=45c48cce2e2d7fbdea1afc51c7
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=45c48cce2e2d7fbdea1afc51c7
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=45c48cce2e2d7fbdea1afc51c7
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 167
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=45c48cce2e2d7fbdea1afc51c7
+
+type=transaction&action=send&sender=DE777778888899999112346&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 166
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=cfcd208495d565ef66e7dff9f9
+
+type=transaction&action=send&sender=DE44444635142635466464&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 166
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=cfcd208495d565ef66e7dff9f9
+
+type=transaction&action=send&sender=DE44444635142635466464&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 166
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=cfcd208495d565ef66e7dff9f9
+
+type=transaction&action=send&sender=DE44444635142635466464&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
+Connection: close
+Content-Length: 166
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://10.0.212.25/vulnbank/online/transactions.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=cfcd208495d565ef66e7dff9f9
+
+type=transaction&action=send&sender=DE44444635142635466464&recipient=DE777778888899999112346&creditcard=5578-5192-2274-9996&amount=1&comment=It's+some+money+for+you
+END
+
+ST@RT
+Thu, 15 Mar 2018 14:45:52 INFO
+POST /vulnbank/online/api.php HTTP/1.1
+Host: 10.0.212.25
