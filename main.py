@@ -443,3 +443,63 @@ class Predictor():
                     print(token, end='')
                     
             print(Fore.BLACK + '', end='')
+
+
+p = Predictor(params["checkpoints"], params["std_factor"], params["vocab"])
+
+
+
+val_gen = d.val_generator()
+threshold = p.set_threshold(val_gen)
+
+
+# Benign samples 
+
+test_gen = d.test_generator()
+valid_preds, valid_loss = p.predict(test_gen)
+
+print('Number of FP: ', np.sum(valid_preds))
+print('Number of samples: ', len(valid_preds))
+print('FP rate: {:.4f}'.format(np.sum(valid_preds) / len(valid_preds)))
+
+
+# Anomalous samples 
+
+pred_data = Data(path_anomaly_data, predict=True)
+pred_gen = pred_data.predict_generator()
+anomaly_preds, anomaly_loss = p.predict(pred_gen)
+
+print('Number of TP: ', np.sum(anomaly_preds))
+print('Number of samples: ', len(anomaly_preds))
+print('TP rate: {:.4f}'.format(np.sum(anomaly_preds) / len(anomaly_preds)))
+
+
+# Testing 
+y_true = np.concatenate(([0] * len(valid_preds), [1] * len(anomaly_preds)), axis=0)
+preds = np.concatenate((valid_preds, anomaly_preds), axis=0)
+loss_pred = np.concatenate((valid_loss, anomaly_loss), axis=0)
+assert len(y_true)==len(loss_pred)
+
+precision = precision_score(y_true, preds)
+recall = recall_score(y_true, preds)
+print('Precision: {:.4f}'.format(precision))
+print('Recall: {:.4f}'.format(recall))
+
+
+fpr, tpr, _ = roc_curve(y_true, loss_pred)
+roc_auc = auc(fpr, tpr)
+
+plt.figure()
+plt.plot(fpr, tpr, label='ROC curve (area = %0.4f)' % roc_auc)
+plt.plot([0, 1], [0, 1], color='navy', linestyle='--')
+plt.xlim([-0.05, 1.0])
+plt.ylim([0.0, 1.05])
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('ROC curve')
+plt.legend(loc="lower right")
+plt.show()
+
+
+
+
