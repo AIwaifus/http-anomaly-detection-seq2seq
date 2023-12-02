@@ -68,4 +68,28 @@ class Data(Reader):
         
         return data, lengths
 
-    def tr
+    def train_generator(self, batch_size, num_epochs):
+        return batch_generator(
+            self.X_train,
+            self.l_train,
+            num_epochs,
+            batch_size,
+            self.vocab)
+
+    def val_generator(self):
+        return one_by_one_generator(
+            self.X_val,
+            self.l_val,
+            self.vocab)
+
+    def test_generator(self):
+        return one_by_one_generator(
+            self.X_test,
+            self.l_test,
+            self.vocab)
+
+    def predict_generator(self):
+        return one_by_one_generator(
+            self.data,
+            self.lengths,
+            self.vocab)
