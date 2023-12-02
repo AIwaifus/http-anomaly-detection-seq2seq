@@ -44,4 +44,28 @@ class Data(Reader):
 
     def _train_test_split(self):
         """
-        Train/val/test split for anom
+        Train/val/test split for anomaly detection problem.
+        """
+        # Shuffle requests
+        data, lengths = self._shuffle(self.data, self.lengths)
+
+        # Split into train/val/test
+        X_train, X_test, l_train, l_test = train_test_split(data, lengths, test_size=0.1)
+        X_train, X_val, l_train, l_val = train_test_split(X_train, l_train, test_size=0.2)
+
+        self.X_train, self.l_train = X_train, l_train
+        self.X_val, self.l_val = X_val, l_val
+        self.X_test, self.l_test = X_test, l_test
+
+        self.train_size = len(X_train)
+        self.val_size = len(X_val)
+        self.test_size = len(X_test)
+
+    def _shuffle(self, data, lengths):
+        temp = list(zip(data, lengths))
+        random.shuffle(temp)
+        data, lengths = zip(*temp)
+        
+        return data, lengths
+
+    def tr
