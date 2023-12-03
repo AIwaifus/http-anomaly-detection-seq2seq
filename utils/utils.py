@@ -61,4 +61,22 @@ def batch_padding(inputs, lengths, vocab):
     padded = []
     for sample in inputs:
         padded.append(
-            sample + ([vocab.vocab['<PAD>']] * (max_len - len(
+            sample + ([vocab.vocab['<PAD>']] * (max_len - len(sample))))
+    return padded
+
+
+def print_progress(step, epoch, loss, step_loss, time):
+    """
+    Prints learning stage progress.
+    """
+    msg = "Step {} (epoch {}), average_train_loss = {:.5f}, step_loss = {:.5f}, time_per_step = {:.3f}"
+    msg = msg.format(step, epoch, loss, step_loss, time)
+    print(msg)
+
+
+def create_checkpoints_dir(checkpoints_dir):
+    """
+    Creates the checkpoints directory if it does not exist.
+    """
+    if not os.path.exists(checkpoints_dir):
+        os.makedirs(checkpoints_dir)
