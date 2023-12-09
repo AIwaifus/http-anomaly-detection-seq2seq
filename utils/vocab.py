@@ -26,4 +26,18 @@ class Vocabulary():
         except Exception as e:
             characters = ['<UNK>']
 
-     
+        characters.append('<EOS>')
+        char_ids = [self.vocab.get(char, self.vocab['<UNK>'])
+                    for char in characters]
+
+        return char_ids
+
+    def int_to_string(self, char_ids):
+        """
+        Decodes a list of integers into it's string representation.
+        """
+        characters = []
+        for i in char_ids:
+            characters.append(self.reverse_vocab[i].encode('utf-8'))
+
+        return characters
